@@ -29,3 +29,6 @@ JavaScript/
 └── script.js
 Plagiarism declaration.html
 home.html, culture.html, food.html, places.html, contact.html
+
+**Tags**: #FrontEnd #ResponsiveDesign #JavaScript #TravelWebsite  
+
